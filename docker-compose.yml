@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: movie-management-api
+    ports:
+      - "3000:3000"
