@@ -8,12 +8,12 @@ Certifique-se de ter o Node.js instalado na sua máquina.
 
 1. Clone este repositório:
 ```bash
-   git clone https://github.com/seu-usuario/movie-management-api.git
+   git clone https://github.com/heldersantosc/mvp-movie-management-api.git
 ```
 
 1. Instale as dependências:
 ```bash
-   cd movie-management-api
+   cd mvp-movie-management-api
    npm install
 ```
 
